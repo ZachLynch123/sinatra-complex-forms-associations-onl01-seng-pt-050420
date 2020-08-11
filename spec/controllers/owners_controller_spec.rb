@@ -70,6 +70,6 @@ describe "Owners Controller" do
       @pet = Pet.create(:name => "Chewie", :owner_id => @owner.id)
     end
 
-   
+ end
 
 end
